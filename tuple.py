@@ -1,0 +1,8 @@
+# a=(1,2,3,4,5)
+# print(type(a))
+# b=(0,)
+# print(type(b))
+a=(1,45,67,89,"supra","skyline")
+# print(a)
+no=a.count(45)
+print(no)
